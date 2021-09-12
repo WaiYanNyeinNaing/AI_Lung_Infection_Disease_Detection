@@ -20,13 +20,13 @@
 
 - https://covid-xray.netlify.app/?fbclid=IwAR1AoV3dXZOuf9nKHxm6keMBxmmZ3gApQ5vBHw4m6TxU0FLm_7am1CegLDQ 
 
-* Contributors 
+* Contributors :
 Dr. Wai Yan Nyein Naing ,
 Htut Khaung Saw Win @ John Caesar,
 Nyein Chan Soe Win,
 Hlaing Bwar
 
-* Consultants
+* Consultants :
 Dr. Saw Win 
 Dr. Wunna Zaw Min (MDY)
 
