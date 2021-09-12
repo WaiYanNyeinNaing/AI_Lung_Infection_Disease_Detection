@@ -30,6 +30,6 @@ Hlaing Bwar
 Dr. Wunna Zaw Min (MDY)
 
 contact us:
-learn.aiedu@gmail.com
+learn.aiedu@gmail.com ,
 waiyan.nn18@gmail.com
 
