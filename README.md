@@ -27,7 +27,9 @@ Nyein Chan Soe Win,
 Hlaing Bwar
 
 * Consultants :
-Dr. Saw Win ,
 Dr. Wunna Zaw Min (MDY)
 
+contact us:
+learn.aiedu@gmail.com
+waiyan.nn18@gmail.com
 
