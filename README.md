@@ -21,8 +21,8 @@
 - https://covid-xray.netlify.app/?fbclid=IwAR1AoV3dXZOuf9nKHxm6keMBxmmZ3gApQ5vBHw4m6TxU0FLm_7am1CegLDQ 
 
 Contributors -
-Dr. Wai Yan Nyein Naing
-Htut Khaung Saw Win @ John Casesar
-Nyein Chan Soe Win
-Hlaing Bwar
+Dr. Wai Yan Nyein Naing ,
+Htut Khaung Saw Win @ John Casesar,
+Nyein Chan Soe Win,
+Hlaing Bwar,
 
