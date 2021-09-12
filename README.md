@@ -14,7 +14,7 @@
 
 3) To execute the python file.
 
-- python execute_xray.py --image dataset/COVID1.png
+- python src/execute_xray.py --image dataset/COVID1.png
 
 4) Web Demo URL
 
