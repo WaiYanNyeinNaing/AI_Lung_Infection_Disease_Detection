@@ -24,7 +24,8 @@
 Dr. Wai Yan Nyein Naing ,
 Htut Khaung Saw Win @ John Caesar,
 Nyein Chan Soe Win,
-Hlaing Bwar
+Hlaing Bwar,
+Arkar Nyein Naing.
 
 * Consultants :
 Dr. Wunna Zaw Min (MDY)
@@ -32,4 +33,4 @@ Dr. Wunna Zaw Min (MDY)
 contact us:
 learn.aiedu@gmail.com ,
 waiyan.nn18@gmail.com
-
+arkarx@icloud.com 
