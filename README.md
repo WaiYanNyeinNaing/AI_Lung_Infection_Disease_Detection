@@ -32,5 +32,5 @@ Dr. Wunna Zaw Min (MDY)
 
 contact us:
 learn.aiedu@gmail.com ,
-waiyan.nn18@gmail.com
+waiyan.nn18@gmail.com,
 arkarx@icloud.com 
